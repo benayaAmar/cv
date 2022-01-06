@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+
+   <html lang="en">
+      <head>
+       <meta charset="UTF-8">
+       <meta http-equiv="X-UA-Compatible" content="IE=edge">
+       <meta name="viewport" content="width=device-width, initial-scale=1.0">
+       <title>Benaya's personal site</title>
+     </head>
+    <body>
+     <table cellspacing=10 >
+      <td>
+        <td> <img src="MG_0226-modified.png" widht=150px height=150px alt="Benaya's profile picture "></td>
+       <td><h2>Benaya Amar</h2>
+        <p><em> <strong>Full stack developer </strong> student</em> </p>
+        <p>Hello I am Benaya . 24 years old from France , currently in Israel. </p>
+        </td>
+    </table>
+
+
+
+     <hr>
+
+
+      <h3>Education : </h3>
+      <ul>
+        <li>2001-2011: <a href="https://www.maimonide.fr/index.html"> Rambam private school Paris</a> </li>
+        <li>2011-2015: <a href="https://www.facebook.com/yaban.org.il/"> Bnei akiva Netanya</a></li>
+     <ul>
+     <hr>
+      <h3><strong>Hobbies:</strong></h3>
+      <a href="hobbies.html">My Hobbies </a>
+       <br >
+     <a href="contact.html"> Contact Me  </a>
+      <hr>
+
+
+      <table cellspacing="0px">
+        <thead><h3>Skills</h3></thead>
+          <tr>
+            <td>Web Development</td>
+            <td><p>🌐🌐🌐🌐</p></td>
+         </tr>
+         <tr>
+          <td>Python</td>
+          <td><p>🐍🐍🐍</p></td>
+         </tr>
+         <tr>
+           <td>Photography</td>
+            <td><p>📸📸📸📸</p></td>
+         </tr>
+       </table>
+       <hr>
+
+
+    </body>
+   </html>
